@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import './Footer.css'
 
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
